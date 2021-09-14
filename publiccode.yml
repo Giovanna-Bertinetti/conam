@@ -36,28 +36,28 @@ description:
       
       L’applicativo comprende le seguenti macro-funzionalità:
       
-      Gestione fascicolo
+      - **Gestione fascicolo**
       Ricomprende le funzionalità necessarie alla creazione del fascicolo digitalizzato del verbale:
       Acquisizione del verbale di accertamento e di tutti gli allegati prodotti dall’organo accertatore che ha elevato la violazione;
       Inserimento dei dati descrittivi della violazione commessa (data, luogo, norma violata, soggetti coinvolti)
       Protocollazione e fascicolazione in Doqui ACTA.
       
-      Gestione contenzioso amministrativo
+      - **Gestione contenzioso amministrativo**
       Ricomprende le funzionalità necessarie per accrescere il fascicolo con gli atti tipici della fase istruttoria prodotti sia dai funzionari istruttori dell’ufficio Contenzioso che dalle parti coinvolte nell’illecito.
       
-      Gestione fase giurisdizionale
+      - **Gestione fase giurisdizionale**
       Ricomprende le funzionalità necessarie per accrescere il fascicolo con gli atti tipici della fase giurisdizionale in particolare con l’acquisizione degli atti provenienti dalle cancellerie degli organi giurisdizionali e la predisposizione di atti difensivi. Nell’ambito della gestione della fase giurisdizionale è inoltre ricompresa la gestione del calendario udienze.
       
-      Riscossione
+      - **Riscossione**
       Ricomprende le funzionalità per predisporre il sollecito di pagamento per un’ordinanza ingiunzione insoluta prima della sua iscrizione nel carico da inviare al concessionario della riscossione. In caso di morosità persistente, ricomprende le funzionalità per la predisposizione del carico con i soggetti debitori, e i relativi debiti, per il concessionario della riscossione che dovrà procedere con l’emissione dell’ingiunzione fiscale.
       
-      Gestione pagamenti
+      - **Gestione pagamenti**
       Ricomprende le funzionalità per la riconciliazione dei pagamenti del verbale, dell’ordinanza ingiunzione, delle rate e per la predisposizione dei piani di rateizzazione dell’ordinanza ingiunzione.
       
-      Utility norma
+      - **Utility norma**
       Ricomprende le funzionalità per l’inserimento e la modifica del prontuario delle norme sulle quali la Regione ha potere sanzionatorio se violate.
       
-      Gestione pregresso
+      - **Gestione pregresso**
       Ricomprende le funzonalità per l’acquisizione in CONAM dei documenti definiti storici per far proseguire il procedimento sanzionatorio all’interno dell’applicativo.
 
 
